@@ -5,3 +5,6 @@ library(tidyverse)
 library(gapminder)
 
 head(gapminder)
+
+ggplot(gapminder, aes(x = country, y = pop, color = gdpPercap))+
+  geom_point()
