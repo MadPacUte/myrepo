@@ -1,2 +1,1 @@
-# myrepo
-# This is a line from RStudio.
+This is to store my first shiny app. 
